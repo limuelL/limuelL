@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @limuelL
-- 👀 I’m interested in web and mobile app development
-- 🌱 I’m currently learning some programming languages like js and java.
-- 💞️ I’m looking to collaborate on some projects as soon as I am somehow qualified.
-- 📫 Reach me thru my work email: N/A
+Hi, my name is Limuel.
+I'm actually an Electrical Engineer but my passion is programming and I am pursuing a path in Software Engineering.
+I want to build things that will create an impact to the world.
+I am so happy to be here! 
 
 <!---
 limuelL/limuelL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
