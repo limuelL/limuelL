@@ -1,7 +1,7 @@
-Hi, my name is Limuel.
-I'm actually an Electrical Engineer but my passion is programming and I am pursuing a path in Software Engineering.
-I want to build things that will create an impact to the world.
-I am so happy to be here! 
+-- Hi, my name is Limuel.
+-- I'm actually an Electrical Engineer but my passion is programming and I am pursuing a path in Software Engineering.
+-- I want to build things that will create an impact to the world.
+-- And I am so happy to be here! 
 
 <!---
 limuelL/limuelL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
