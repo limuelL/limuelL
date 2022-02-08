@@ -56,7 +56,7 @@ I am looking forward of working in a Fintech Company</h4>
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/engr-limuel-larraquel-1a6111147?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BX8OOkkqRTv6%2FmgP2T%2F0%2FFg%3D%3D"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/limuellarraquel"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.facebook.com/limuel.larraquel.15"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
 <a href = "https://twitter.com/Limuel_SE"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
