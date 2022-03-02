@@ -8,7 +8,7 @@ I am looking forward of working in a Fintech Company</h4>
 ## About Me
 - 🎓 I'm a **Licensed Electrical Engineer** pursuing **Software Engineering**
 
-- 👷 I’m currently working on a [simple project related to cryptocurrency investment automation](https://github.com/limuelL/Crypto-Auto-Invest-And-Sell-Bot/).
+- 👷 I’m currently working on a simple project related to cryptocurrency investment automation.
 
 - 🌱 I’m currently learning **SQL** and a bit of **Machine Learning.**
 
