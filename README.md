@@ -45,7 +45,7 @@ I am looking forward of working in a Fintech Company</h4>
 ## Languages used in public repositories
 
   <br/>
-  <a href="https://github.com/limuelL/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limuelL&langs_count=8&count_private=true&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&langs_count=5" /></a>
+  <a href="https://github.com/limuelL/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limuelL&langs_count=8&count_private=true&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&langs_count=4" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
