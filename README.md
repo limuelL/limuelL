@@ -6,7 +6,7 @@ I am looking forward of working in a Fintech Company</h4>
 
 
 ## About Me
-- 🎓 I'm a **Licensed Electrical Engineer** pursuing **Software Engineering**
+- 🎓 I'm a **Licensed Electrical Engineer** shifting to **Software Engineering**
 
 - 👷 I’m currently working on a simple project related to cryptocurrency investment automation.
 
