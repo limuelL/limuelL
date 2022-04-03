@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **limuellarraquel1524@gmail.com**
 
-- ⚡ Fun Fact **I'm also a partime cryptocurrency investor and a position trader.**
+- ⚡ Fun Fact **I'm also a partime cryptocurrency investor.**
 
 ## Languages and Tools:
 
