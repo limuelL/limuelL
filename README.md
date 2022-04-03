@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi there, I'm Limuel</h1>
-<h4 align="center">I am one of the millions of people hoping to someday change the world by bringing in new products in the technology industry.
-
-I am looking forward of working in a Fintech Company</h4>
+<h4 align="center">The ultimate objective is to bring ideas to life and to have the greatest possible impact.</h4>
 
 
 ## About Me
