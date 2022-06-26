@@ -6,7 +6,7 @@
 ## About Me
 - 🎓 I'm a **Licensed Electrical Engineer** shifting to **Software Engineering**
 
-- 👷 I’m currently working on a simple project related to cryptocurrency investment automation.
+- 👷 I’m currently working on a simple project related to [cryptocurrency investment automation](https://github.com/limuelL/Crypto-Auto-Buy-and-Sell-Bot).
 
 - 🌱 I’m currently learning **SQL** and a bit of **Machine Learning.**
 
