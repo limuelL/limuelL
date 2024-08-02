@@ -6,9 +6,9 @@
 ## About Me
 - 🎓 I'm a **Licensed Electrical Engineer** shifting to **Software Engineering**
 
-- 👷 I’m currently working on a simple project related to [cryptocurrency investment automation](https://github.com/limuelL/Crypto-Auto-Buy-and-Sell-Bot).
+- 👷 I’m currently working on a Trade Bot Project utilizing Machine Learning to [Bitget Trading Bot](private for now).
 
-- 🌱 I’m currently learning **SQL** and a bit of **Machine Learning.**
+- 🌱 I’m currently working as a **Software Engineer.**
 
 - 👯 I’m open to collaborate on **OpenSource Projects**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **limuellarraquel1524@gmail.com**
 
-- ⚡ Fun Fact **I'm also a partime cryptocurrency investor.**
+- ⚡ Fun Fact **I'm also a partime cryptocurrency investor and algo trader.**
 
 ## Languages and Tools:
 
