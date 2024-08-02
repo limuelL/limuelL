@@ -30,14 +30,14 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://www.heroku.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/heroku.png"/></a>
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></a>
-    <a href="https://hpccsystems.com/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=8305&format=png&color=000000"/></a>
-    <a href="https://numpy.org/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000"/></a>
-    <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000"/></a>
-    <a href="https://matplotlib.org/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=6ZIgp3otM1i9&format=png&color=000000"/></a>
-    <a href="https://scikit-learn.org/stable/index.html" target="_blank"> <img src="https://img.icons8.com/?size=100&id=a1NnB4bVOMX9&format=png&color=000000"/></a>
-    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=62903&format=png&color=000000"/></a>
-    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000"/></a>
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000"/></a>
+    <a href="https://hpccsystems.com/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=1476&format=png&color=000000"/></a>
+    <a href="https://numpy.org/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=aR9CXyMagKIS&format=png&color=000000"/></a>
+    <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=xSkewUSqtErH&format=png&color=000000"/></a>
+    <a href="https://matplotlib.org/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=6ZIgp3otM1i9&format=png&color=000000"/></a>
+    <a href="https://scikit-learn.org/stable/index.html" target="_blank"> <img src="https://img.icons8.com/?size=48&id=a1NnB4bVOMX9&format=png&color=000000"/></a>
+    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=YdWYmkZd5rxx&format=png&color=000000"/></a>
+    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=33039&format=png&color=000000"/></a>
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=22813&format=png&color=000000"/></a>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
