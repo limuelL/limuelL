@@ -30,7 +30,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://www.heroku.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/heroku.png"/></a>
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></a>
-    <a href="https://hpccsystems.com/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=1476&format=png&color=000000"/></a>
+    <a href="https://hpccsystems.com/" target="_blank"> <img src="https://avatars0.githubusercontent.com/u/900867?v=3&s=200"/></a>
     <a href="https://numpy.org/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=aR9CXyMagKIS&format=png&color=000000"/></a>
     <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=xSkewUSqtErH&format=png&color=000000"/></a>
     <a href="https://matplotlib.org/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=6ZIgp3otM1i9&format=png&color=000000"/></a>
