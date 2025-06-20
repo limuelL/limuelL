@@ -4,9 +4,7 @@
 
 
 ## About Me
-- 🎓 I'm a **Electrical Engineer** shifted to **Software Engineering** and very interested in **AI/ML and Data Science**.
-
-- 👷 I’m currently working on a Trade Bot Project utilizing Machine Learning model to make trading decisions.
+- 🎓 I'm a **Electrical Engineer** shifted to **Software Engineering**.
 
 - 🌱 I’m currently working as a **Software Engineer.**
 
@@ -15,8 +13,6 @@
 - 👨‍💻 Some of my projects are available **in this github account.**
 
 - 📫 How to reach me **limuellarraquel01@gmail.com**
-
-- ⚡ Fun Fact **I'm also a partime cryptocurrency investor and algo trader.**
 
 ## Languages and Tools:
 
