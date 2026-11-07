@@ -22,7 +22,7 @@ A personal trading app I built to run and monitor my own strategies across prop 
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,mysql,git,github,aws,docker,sklearn,tensorflow" alt="Tech stack"/>
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,react,mysql,git,github,aws,docker,sklearn,tensorflow" alt="Tech stack"/>
 </p>
 
 <p align="left">
