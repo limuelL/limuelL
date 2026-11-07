@@ -11,7 +11,7 @@
 
 ## 🚀 Personal Projects
 
-### [Uelque's Edge](https://app.uelquesedge.com/)
+### Uelque's Edge
 A personal trading app I built to run and monitor my own strategies across prop firm and broker accounts.
 - Connects to any broker or prop firm available on **cTrader**
 - Trades diverse markets with built-in **strategies**, **analysis**, and **automation**
